@@ -2,7 +2,6 @@ package lab1
 
 import java.util.Scanner
 
-
 fun main() {
     val scanner = Scanner(System.`in`)
     print("Enter a list of numbers, separated by commas: ")
